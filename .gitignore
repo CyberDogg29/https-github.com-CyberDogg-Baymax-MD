@@ -1,0 +1,16 @@
+node_modules
+yarn.lock
+.env
+Test
+quickdb.json
+System/Cache/*
+!System/Cache/.gitkeep
+System/session/
+session_*/
+.claude
+readmes
+package-lock.json
+ExtraPlugins
+ExtraPlugins_
+BAYMAX-MD.log
+BAYMAX-MD.pid
